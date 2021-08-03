@@ -6,5 +6,5 @@
 
 ## 输入
 
-耳朵 眼睛 鼻子 嘴巴 皮肤  
-Ears eyes nose mouth skin
+耳朵 眼睛     
+ears eyes    

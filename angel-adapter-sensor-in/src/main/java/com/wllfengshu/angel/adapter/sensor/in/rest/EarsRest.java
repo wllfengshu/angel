@@ -1,4 +1,4 @@
-package com.wllfengshu.angel.sensor.in.rest;
+package com.wllfengshu.angel.adapter.sensor.in.rest;
 
 import com.wllfengshu.angel.sensor.in.service.EarsService;
 import io.swagger.annotations.Api;

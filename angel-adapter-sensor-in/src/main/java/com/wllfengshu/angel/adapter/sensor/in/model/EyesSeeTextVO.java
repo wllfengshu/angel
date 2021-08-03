@@ -1,4 +1,4 @@
-package com.wllfengshu.angel.sensor.in.model;
+package com.wllfengshu.angel.adapter.sensor.in.model;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.wllfengshu.angel.sensor.in;
+package com.wllfengshu.angel.adapter.sensor.in;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

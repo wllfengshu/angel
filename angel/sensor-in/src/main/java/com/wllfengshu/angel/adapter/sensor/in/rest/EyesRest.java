@@ -1,7 +1,7 @@
-package com.wllfengshu.angel.sensor.in.rest;
+package com.wllfengshu.angel.adapter.sensor.in.rest;
 
-import com.wllfengshu.angel.sensor.in.model.EyesSeeTextVO;
-import com.wllfengshu.angel.sensor.in.service.EyesService;
+import com.wllfengshu.angel.adapter.sensor.in.model.EyesSeeTextVO;
+import com.wllfengshu.angel.adapter.sensor.in.service.EyesService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import lombok.NonNull;

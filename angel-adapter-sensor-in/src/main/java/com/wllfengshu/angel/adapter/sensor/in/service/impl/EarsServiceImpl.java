@@ -1,4 +1,4 @@
-package com.wllfengshu.angel.sensor.in.service.impl;
+package com.wllfengshu.angel.adapter.sensor.in.service.impl;
 
 import com.wllfengshu.angel.sensor.in.service.EarsService;
 import lombok.RequiredArgsConstructor;

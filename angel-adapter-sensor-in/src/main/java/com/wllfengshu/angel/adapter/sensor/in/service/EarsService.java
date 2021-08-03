@@ -1,4 +1,4 @@
-package com.wllfengshu.angel.sensor.in.service;
+package com.wllfengshu.angel.adapter.sensor.in.service;
 
 /**
  * @author wangll

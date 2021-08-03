@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.wllfengshu.adapter</groupId>
-    <artifactId>adapter-angel-sensor-out</artifactId>
+    <groupId>com.wllfengshu.angel.adapter</groupId>
+    <artifactId>angel-adapter-sensor-in</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 

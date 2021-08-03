@@ -1,6 +1,6 @@
-package com.wllfengshu.angel.sensor.in.service;
+package com.wllfengshu.angel.adapter.sensor.in.service;
 
-import com.wllfengshu.angel.sensor.in.model.EyesSeeTextVO;
+import com.wllfengshu.angel.adapter.sensor.in.model.EyesSeeTextVO;
 
 /**
  * @author wangll
