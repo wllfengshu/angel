@@ -1,0 +1,26 @@
+server:
+  port: 8888
+  servlet:
+    context-path: /
+spring:
+  application:
+    name: system-memory
+  datasource:
+    url: ${db_url:jdbc:mysql://localhost:3306/angel-system-memory?autoReconnect=true&useUnicode=true&createDatabaseIfNotExist=true&characterEncoding=utf8&useSSL=true&serverTimezone=UTC}
+    username: ${db_username:root}
+    password: ${db_password:root}
+    driver-class-name: com.mysql.jdbc.Driver
+swagger:
+  docket:
+    base-package: com.wllfengshu.angel.system.memory.rest
+mapper:
+  mappers: com.wllfengshu.angel.system.memory.utils.MapperUtil
+  not-empty: false
+  identity: MYSQL
+system-memory:
+  young-max-size: 10
+  old-max-size: 20
+logging:
+  path: E:\angel\9日志
+  level:
+    com.wllfengshu.angel.system.memory.dao: debug
